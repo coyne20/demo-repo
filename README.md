@@ -4,4 +4,4 @@ Some basic plain text!
 
 ## Sub Header
 
-Some additional text
+Some additional text goes here.
